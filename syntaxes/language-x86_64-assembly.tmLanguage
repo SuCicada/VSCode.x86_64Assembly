@@ -12,7 +12,7 @@
 		<string>S</string>
 	</array>
 	<key>name</key>
-	<string>x86 and x86_64 Assembly</string>
+	<string>x86 and x86_64 Assembly (.S)</string>
 	<key>patterns</key>
 	<array>
 		<dict>
