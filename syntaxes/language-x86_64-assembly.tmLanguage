@@ -4,11 +4,12 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>asm</string>
+		<!-- <string>asm</string>
 		<string>nasm</string>
 		<string>yasm</string>
 		<string>inc</string>
-		<string>s</string>
+		<string>s</string> -->
+		<string>S</string>
 	</array>
 	<key>name</key>
 	<string>x86 and x86_64 Assembly</string>

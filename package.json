@@ -1,14 +1,14 @@
 {
-    "name": "x8664assembly",
-    "displayName": "x8664assembly",
-	"description": "x86 and x86_64 assembly syntax highlighting",
+    "name": "x8664assemblys",
+    "displayName": "x8664assembly (.S)",
+	"description": "x86 and x86_64 assembly syntax highlighting for (.S)",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/FredHappyface/VSCode.x86_64Assembly.git"
+		"url": "https://github.com/SuCiCcada/VSCode.x86_64Assembly.git"
 	},
 	"icon": "logo.png",
 	"license": "MIT",
-	"publisher": "fredhappyface",
+	"publisher": "pengyifu",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.41.0"
@@ -20,7 +20,8 @@
 		"programming",
 		"languages",
 		"assembly",
-		"asm"
+		"asm",
+        ".S"
 	],
     "contributes": {
         "languages": [{
